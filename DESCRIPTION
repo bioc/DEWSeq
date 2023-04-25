@@ -1,7 +1,11 @@
 Package: DEWSeq
 Type: Package
 Title: Differential Expressed Windows Based on Negative Binomial Distribution
+<<<<<<< HEAD
 Version: 1.17.0
+=======
+Version: 1.15.0
+>>>>>>> d467437 (bump x.y.z version to odd y following creation of RELEASE_3_17 branch)
 Authors@R:
     c(person("Sudeep","Sahadevan",email= "sahadeva@embl.de",role="aut"), 
     person("Thomas","Schwarzl",email="schwarzl@embl.de",role="aut"),
