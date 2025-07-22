@@ -2,7 +2,7 @@
 #'
 #' @import BiocParallel DESeq2 S4Vectors
 #'
-#' @importFrom GenomeInfoDb seqnames
+#' @importFrom Seqinfo seqnames
 #' @importFrom BiocGenerics strand
 #' @importFrom GenomicRanges findOverlaps
 #' @importFrom methods is

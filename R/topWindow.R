@@ -2,7 +2,7 @@
 #' @export
 #'
 #' @importFrom BiocGenerics sort
-#' @importFrom GenomeInfoDb sortSeqlevels
+#' @importFrom Seqinfo sortSeqlevels
 #' @importFrom GenomicRanges makeGRangesFromDataFrame reduce
 #' @importFrom S4Vectors na.omit
 #' @importFrom utils setTxtProgressBar txtProgressBar

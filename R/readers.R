@@ -4,7 +4,7 @@
 #'
 #' @keywords  internal
 #' @importFrom BiocGenerics sort
-#' @importFrom GenomeInfoDb sortSeqlevels
+#' @importFrom Seqinfo sortSeqlevels
 #' @importFrom GenomicRanges makeGRangesFromDataFrame reduce
 #' @importFrom data.table fread getDTthreads setDTthreads
 #' @importFrom utils read.table

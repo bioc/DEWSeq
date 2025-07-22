@@ -2,7 +2,7 @@
 #' @export
 #' @importFrom methods as is
 #' @importFrom BiocGenerics sort
-#' @importFrom GenomeInfoDb sortSeqlevels
+#' @importFrom Seqinfo sortSeqlevels
 #' @importFrom GenomicRanges makeGRangesFromDataFrame
 #' @importFrom SummarizedExperiment SummarizedExperiment
 #'

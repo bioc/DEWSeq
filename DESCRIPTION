@@ -1,7 +1,7 @@
 Package: DEWSeq
 Type: Package
 Title: Differential Expressed Windows Based on Negative Binomial Distribution
-Version: 1.23.0
+Version: 1.23.1
 Authors@R:
     c(person("Sudeep","Sahadevan",email= "sahadeva@embl.de",role="aut"), 
     person("Thomas","Schwarzl",email="schwarzl@embl.de",role="aut"),
@@ -12,7 +12,7 @@ Description: DEWSeq is a sliding window approach for the analysis of
 Imports:
     BiocGenerics,
     data.table(>= 1.11.8),
-    GenomeInfoDb,
+    Seqinfo,
     GenomicRanges,
     methods,
     S4Vectors,
